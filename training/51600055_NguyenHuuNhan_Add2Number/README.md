@@ -16,14 +16,26 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Step 1 : download Calculator-0.0.1-SNAPSHOT.jar from ####target folder
 
 ```
 Give the example
 ```
 
+Step 2 : create a folder named "sum" , copy your downloaded file , and paste it in there
+
+Step 3 : create a text file , type : java -jar <your path to Calculator-0.0.1-SNAPSHOT.jar file> %1 %2
+
+Step 4 : add path to PATH system enviroment
+
+Step 5 : open CMD and type : sum "number1" "number 2"
+
+...
+Example : sum "1" "2"
+...
+
+
+for example : 
 And repeat
 
 ```
